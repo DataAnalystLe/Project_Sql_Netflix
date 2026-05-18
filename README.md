@@ -1,1 +1,1 @@
-# Project_Sql_Netflix
+# Project_Sql_Netflix is my project file containing Netflix Movies and TV Shows Data Analysis Using SQL
